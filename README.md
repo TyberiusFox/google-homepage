@@ -1,4 +1,4 @@
 google-homepage
 ===============
 
-The Odin Project
+The Odin Project - Practice
